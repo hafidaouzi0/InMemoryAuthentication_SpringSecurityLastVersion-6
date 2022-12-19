@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class NewVersionspringSecurity6Application implements CommandLineRunner {
-
+//test
 	public static void main(String[] args) {
 		SpringApplication.run(NewVersionspringSecurity6Application.class, args);
 	}
